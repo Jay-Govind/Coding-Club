@@ -1,2 +1,3 @@
-# Coding-Club
-A website of 6 members...
+Hello 🤠 Everyone, 
+
+Check this website and explore our first basic project.
